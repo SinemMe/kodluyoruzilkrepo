@@ -1,2 +1,4 @@
 # kodluyoruzilkrepo
-Kodluyoruz Front-End Egitimi kapsaminda actigim ilk repo
+Kodluyoruz Front-End Egitimi kapsaminda actigim ilk repo.
+
+denem123
